@@ -1,77 +1,33 @@
-/////////////////////////////////////////////////////////////////////////////////////////////
-// ±âº» Á¦°øÄÚµå´Â ÀÓÀÇ ¼öÁ¤ÇØµµ °ü°è ¾ø½À´Ï´Ù. ´Ü, ÀÔÃâ·Â Æ÷¸Ë ÁÖÀÇ
-// ¾Æ·¡ Ç¥ÁØ ÀÔÃâ·Â ¿¹Á¦ ÇÊ¿ä½Ã Âü°íÇÏ¼¼¿ä.
-// Ç¥ÁØ ÀÔ·Â ¿¹Á¦
-// int a;
-// float b, c;
-// double d, e, f;
-// char g;
-// char var[256];
-// long long AB;
-// scanf(&quot;%d&quot;, &a);                      // int º¯¼ö 1°³ ÀÔ·Â¹Ş´Â ¿¹Á¦
-// scanf(&quot;%f %f&quot;, &b, &c);               // float º¯¼ö 2°³ ÀÔ·Â¹Ş´Â ¿¹Á¦ 
-// scanf(&quot;%lf %lf %lf&quot;, &d, &e, &f);     // double º¯¼ö 3°³ ÀÔ·Â¹Ş´Â ¿¹Á¦
-// scanf(&quot;%c&quot;, &g);                      // char º¯¼ö 1°³ ÀÔ·Â¹Ş´Â ¿¹Á¦
-// scanf(&quot;%s&quot;, &var);                    // ¹®ÀÚ¿­ 1°³ ÀÔ·Â¹Ş´Â ¿¹Á¦
-// scanf(&quot;%lld&quot;, &AB);                   // long long º¯¼ö 1°³ ÀÔ·Â¹Ş´Â ¿¹Á¦
-/////////////////////////////////////////////////////////////////////////////////////////////
-// Ç¥ÁØ Ãâ·Â ¿¹Á¦
-// int a = 0;                            
-// float b = 1.0, c = 2.0;               
-// double d = 3.0, e = 0.0; f = 1.0;
-// char g = &apos;b&apos;;
-// char var[256] = &quot;ABCDEFG&quot;;
-// long long AB = 12345678901234567L;
-// printf(&quot;%d&quot;, a);                      // int º¯¼ö 1°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-// printf(&quot;%f %f&quot;, b, c);                // float º¯¼ö 2°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-// printf(&quot;%lf %lf %lf&quot;, d, e, f);       // double º¯¼ö 3°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-// printf(&quot;%c&quot;, g);                      // char º¯¼ö 1°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-// printf(&quot;%s&quot;, var);                    // ¹®ÀÚ¿­ 1°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-// printf(&quot;%lld&quot;, AB);                   // long long º¯¼ö 1°³ Ãâ·ÂÇÏ´Â ¿¹Á¦
-/////////////////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
 {
 	int test_case;
 	int T;
-    char str[31];
-    int cnt[26];
-	/* ¾Æ·¡ÀÇ freopen ÇÔ¼ö´Â input.txt ¸¦ read only Çü½ÄÀ¸·Î ¿¬ ÈÄ,
-	¾ÕÀ¸·Î Ç¥ÁØ ÀÔ·Â(Å°º¸µå) ´ë½Å input.txt ÆÄÀÏ·ÎºÎÅÍ ÀĞ¾î¿À°Ú´Ù´Â ÀÇ¹ÌÀÇ ÄÚµåÀÔ´Ï´Ù.
-	¿©·¯ºĞÀÌ ÀÛ¼ºÇÑ ÄÚµå¸¦ Å×½ºÆ® ÇÒ ¶§, ÆíÀÇ¸¦ À§ÇØ¼­ input.txt¿¡ ÀÔ·ÂÀ» ÀúÀåÇÑ ÈÄ,
-	freopen ÇÔ¼ö¸¦ ÀÌ¿ëÇÏ¸é ÀÌÈÄ scanf ¸¦ ¼öÇàÇÒ ¶§ Ç¥ÁØ ÀÔ·Â ´ë½Å ÆÄÀÏ·ÎºÎÅÍ ÀÔ·ÂÀ» ¹Ş¾Æ¿Ã ¼ö ÀÖ½À´Ï´Ù.
-	µû¶ó¼­ Å×½ºÆ®¸¦ ¼öÇàÇÒ ¶§¿¡´Â ¾Æ·¡ ÁÖ¼®À» Áö¿ì°í ÀÌ ÇÔ¼ö¸¦ »ç¿ëÇÏ¼Åµµ ÁÁ½À´Ï´Ù.
-	´Ü, Ã¤Á¡À» À§ÇØ ÄÚµå¸¦ Á¦ÃâÇÏ½Ç ¶§¿¡´Â ¹İµå½Ã freopen ÇÔ¼ö¸¦ Áö¿ì°Å³ª ÁÖ¼® Ã³¸® ÇÏ¼Å¾ß ÇÕ´Ï´Ù.
-	*/
-	// freopen(&quot;input.txt&quot;, &quot;r&quot;, stdin);
-	/* ¾Æ·¡ ÄÚµå¸¦ ¼öÇàÇÏÁö ¾ÊÀ¸¸é ¿©·¯ºĞÀÇ ÇÁ·Î±×·¥ÀÌ Á¦ÇÑ ½Ã°£ ÃÊ°ú·Î °­Á¦ Á¾·á µÇ¾úÀ» ¶§,
-	Ãâ·ÂÇÑ ³»¿ëÀÌ ½ÇÁ¦ Ç¥ÁØ Ãâ·Â¿¡ ±â·ÏµÇÁö ¾ÊÀ» ¼ö ÀÖ½À´Ï´Ù.
-	µû¶ó¼­ ¾ÈÀüÀ» À§ÇØ ¹İµå½Ã setbuf(stdout, NULL); À» ¼öÇàÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.
-	*/
+	char str[31];
+	int cnt[26];
+	
 	setbuf(stdout, NULL);
 	scanf("%d", &T);
-	/*
-	¿©·¯ °³ÀÇ Å×½ºÆ® ÄÉÀÌ½º¸¦ Ã³¸®ÇÏ±â À§ÇÑ ºÎºĞÀÔ´Ï´Ù.
-	*/
-	for (test_case = 1; test_case <= T; ++test_case)
-	{
+	
+	
+	for (test_case = 1; test_case <= T; ++test_case){
 		int i, n;
-        int rs = 0;
-        memset(cnt, 0, 26 * sizeof(int));
-        scanf("%d", &n);
-        getchar();getchar();
-        for(i = 0; i < n ; i++){
-        	gets(str);
-            cnt[str[0] - 'A']++;
-        }  
+	        int rs = 0;
+	        memset(cnt, 0, 26 * sizeof(int));
+	        scanf("%d", &n);
+	        getchar();getchar();
+	        for(i = 0; i < n ; i++){
+	        	gets(str);
+		        cnt[str[0] - 'A']++;
+	        }  
         
-        for(i = 0; i < 26; i++){
-        	if(cnt[i] == 0)
-                break;
-        }
+        	for(i = 0; i < 26; i++){
+        		if(cnt[i] == 0)
+		                break;
+	        }
         
-        printf("#%d %d\n", test_case, i);
+        	printf("#%d %d\n", test_case, i);
 	}
-	return 0; //Á¤»óÁ¾·á½Ã ¹İµå½Ã 0À» ¸®ÅÏÇØ¾ß ÇÕ´Ï´Ù.
+	return 0; //ì •ìƒì¢…ë£Œì‹œ ë°˜ë“œì‹œ 0ì„ ë¦¬í„´í•´ì•¼ í•©ë‹ˆë‹¤.
 }
