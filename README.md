@@ -1,3 +1,8 @@
 # Algorithm_Practice
 
-- 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[풀이]()]
+### D1
+- (2068)최대수 구하기[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq)][[코드]()]
+
+### D4
+- 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][Fail]
+
