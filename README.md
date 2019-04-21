@@ -1,7 +1,7 @@
 # Algorithm_Practice
 
 ## Concept
-
+- [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
 
 ## Problems
 ### D1
