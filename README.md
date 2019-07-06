@@ -17,6 +17,7 @@
 ### D3
 - (7102)준홍이의 카드놀이[[문제](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIlHWqBYcDFAXC&categoryId=AWkIlHWqBYcDFAXC&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/005.c)]
 - (7087)문제 제목 붙이기[[문제](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIdD46A5EDFAXC&categoryId=AWkIdD46A5EDFAXC&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/006.c)]
+- (7829)보물왕 태혁[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy&categoryId=AWtInr3auH0DFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/010.c))]
 
 ### D4
 - 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[Fail](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/001.c)]
