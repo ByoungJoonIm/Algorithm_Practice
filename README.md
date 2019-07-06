@@ -21,4 +21,5 @@
 
 ### D4
 - 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[Fail](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/001.c)]
+- 최약수[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttVkiq5jEDFASy&categoryId=AWttVkiq5jEDFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/011.c)]
 
