@@ -10,6 +10,7 @@ public class Fibo {
 		long after_time;
 		long total_time;
 		
+		//general recursive case
 		before_time = System.currentTimeMillis();
 		System.out.println(fibo(n));
 		after_time = System.currentTimeMillis();
@@ -19,6 +20,7 @@ public class Fibo {
 		System.out.println("time : " + total_time);
 		System.out.println("============================");
 		
+		//bottom-up dynamic programming
 		before_time = System.currentTimeMillis();
 		System.out.println(fibo_dp(n));
 		after_time = System.currentTimeMillis();
