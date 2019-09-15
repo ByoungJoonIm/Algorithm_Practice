@@ -2,7 +2,7 @@
 
 ## Concept
 - [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
-- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789) [[fibo code](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
+- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789) [[fibo code](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)] [[coin_problem](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Coin.java)]
 
 ## Problems
 ### D1
