@@ -2,9 +2,9 @@
 
 ## Concept
 - [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
-- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789) [[fibo code](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)] [[coin_problem](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Coin.java)]
+- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789) 
 
-## Problems
+## Samsung Expert Academy
 ### D1
 - (2068)최대수 구하기[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/002.cpp)]
 
@@ -25,3 +25,13 @@
 - 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[Fail](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/001.c)]
 - 최약수[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttVkiq5jEDFASy&categoryId=AWttVkiq5jEDFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/011.c)]
 
+## Baekjoon Online Judge
+### Dynamic Programming
+- 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
+- 동전 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Coin.java)]
+
+### Sort
+- 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
+
+### Implement
+- 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
