@@ -38,4 +38,5 @@
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
 - 동전 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Coin.java)]
-- 배낭 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/.java)]
+- 배낭 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Knapsack.java)]
+
