@@ -2,7 +2,9 @@
 
 ## Concept
 - [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
-- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789) 
+- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789)
+  - [coin problem](http://comganet.github.io/dp/2016/06/03/dp-1002)
+  - [knapsack problem](http://comganet.github.io/dp/2016/06/03/dp-1003)
 
 ## Samsung Expert Academy
 ### D1
