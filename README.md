@@ -36,7 +36,7 @@
 
 ### Brute Force
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
-- 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
+- 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
 
 ## The others
 ### Dynamic Programming
