@@ -39,6 +39,7 @@
 - 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
 - 덩치[[문제](https://www.acmicpc.net/problem/7568)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Build.java)]
 - 체스판 다시 칠하기[[문제](https://www.acmicpc.net/problem/1018)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chess.java)]
+- 영화감독 숌[[문제](https://www.acmicpc.net/problem/1436)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Direction.java)]
 
 ## The others
 ### Dynamic Programming
