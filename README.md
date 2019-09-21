@@ -38,6 +38,7 @@
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
 - 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
 - 덩치[[문제](https://www.acmicpc.net/problem/7568)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Build.java)]
+- 체스판 다시 칠하기[[문제](https://www.acmicpc.net/problem/1018)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chess.java)]
 
 ## The others
 ### Dynamic Programming
