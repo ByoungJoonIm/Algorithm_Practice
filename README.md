@@ -34,6 +34,9 @@
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
 
+### Brute Force
+- 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
