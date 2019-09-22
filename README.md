@@ -43,6 +43,7 @@
 
 ### Sort
 - 수 정렬하기[[문제](https://www.acmicpc.net/problem/2750)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Bubble.java)]
+- 수 정렬하기2[[문제](https://www.acmicpc.net/problem/2751)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Quick.java)]
 
 ## The others
 ### Dynamic Programming
