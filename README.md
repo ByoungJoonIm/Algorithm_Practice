@@ -47,6 +47,7 @@
 
 ### Greedy
 - 잃어버린 괄호[[문제](https://www.acmicpc.net/problem/1541)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LostBracket.java)]
+- 회의실 배정[[문제](https://www.acmicpc.net/problem/1931)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ConferenceRoom.java)]
 
 ## The others
 ### Dynamic Programming
