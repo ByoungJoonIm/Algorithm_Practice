@@ -51,6 +51,10 @@
 - 회의실 배정[[문제](https://www.acmicpc.net/problem/1931)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ConferenceRoom.java)]
 - 컵라면[[문제](https://www.acmicpc.net/problem/1781)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CupNoodle.java)]
 
+### Backtracking
+- N-Queen[[문제](https://www.acmicpc.net/problem/9663)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/NQueen.java)]
+- 암호 만들기[[문제](https://www.acmicpc.net/problem/9663)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PasswordMaking.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
