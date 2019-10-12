@@ -25,8 +25,8 @@ public class NQueen {
 			rs++;
 		else {
 			/*
-			 * n = column number which is trying. arr[n] = queens position in
-			 * each column
+			 * n = column number which is trying. 
+			 * arr[n] = queens position in each column
 			 */
 			for (int i = 0; i < N; i++) {
 				arr[n] = i;
