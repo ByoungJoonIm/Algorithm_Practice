@@ -10,8 +10,8 @@ public class PasswordMaking {
 	static int L;
 	
 	public static boolean isPossible(String str){
-		int cons = 0;	//ÀÚÀ½
-		int vowel = 0;	//¸ğÀ½
+		int cons = 0;	//ììŒ
+		int vowel = 0;	//ëª¨ìŒ
 		
 		for (int i = 0; i < str.length(); i++) {
 			if(cons >= 2 && vowel >= 1)
