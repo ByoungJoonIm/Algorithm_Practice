@@ -56,6 +56,9 @@
 - 암호 만들기[[문제](https://www.acmicpc.net/problem/1759)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PasswordMaking.java)]
 - 알파벳[[문제](https://www.acmicpc.net/problem/1987)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Alphabet.java)]
 
+### Dynamic Programming
+- 피보나치 수2[[문제](https://www.acmicpc.net/problem/2748)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibonacci.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
