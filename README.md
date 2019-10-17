@@ -50,6 +50,7 @@
 - 좌표 정렬하기[[문제](https://www.acmicpc.net/problem/11650)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort.java)]
 - 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
 - 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
+- 나이순 정렬[[문제](https://www.acmicpc.net/problem/10814)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/AgeSort.java)]
 
 ### Greedy
 - 잃어버린 괄호[[문제](https://www.acmicpc.net/problem/1541)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LostBracket.java)]
