@@ -67,6 +67,7 @@
 - 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 - 피보나치 함수[[문제](https://www.acmicpc.net/problem/1003)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FibonacciFunction.java)]
 - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
+- 파도반 수열[[문제](https://www.acmicpc.net/problem/9461)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PadovanSequence.java)]
 
 ## The others
 ### Dynamic Programming
