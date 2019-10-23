@@ -69,6 +69,10 @@
 - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
 - 파도반 수열[[문제](https://www.acmicpc.net/problem/9461)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PadovanSequence.java)]
 
+### BFS(Breadth First Search)
+- 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
+- 토마토[[문제](https://www.acmicpc.net/problem/7576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tomato.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
