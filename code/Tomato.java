@@ -16,7 +16,7 @@ class Coordinates{
 	}
 }
 
-public class Tamato {
+public class Tomato {
 	public static int zeros = 0;
 	public static void checkNeighbor(byte field[][], short row, short col, Queue<Coordinates> queue){
 		if(field[row][col] == 0){
