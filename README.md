@@ -72,6 +72,7 @@
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
 - 토마토[[문제](https://www.acmicpc.net/problem/7576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tomato.java)]
+- 숨바꼭질[[문제](https://www.acmicpc.net/problem/1697)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/HideAndSeek.java)]
 
 ## The others
 ### Dynamic Programming
