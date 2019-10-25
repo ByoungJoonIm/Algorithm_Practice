@@ -69,6 +69,7 @@
 - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
 - 파도반 수열[[문제](https://www.acmicpc.net/problem/9461)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PadovanSequence.java)]
 - RGB 거리[[문제](https://www.acmicpc.net/problem/1149)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/RGB.java)]
+- 정수 삼각형[[문제](https://www.acmicpc.net/problem/1932)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/IntegerTriangle.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
