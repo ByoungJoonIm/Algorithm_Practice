@@ -72,6 +72,7 @@
 - 정수 삼각형[[문제](https://www.acmicpc.net/problem/1932)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/IntegerTriangle.java)]
 - 계단 오르기[[문제](https://www.acmicpc.net/problem/2579)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Stairs.java)]
 - 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
+- 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
