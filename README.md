@@ -82,6 +82,8 @@
 
 ### DFS(Depth First Search)
 - DFS와 BFS[[문제](https://www.acmicpc.net/problem/1260)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DFSandBFS.java)]
+- 바이러스[[문제](https://www.acmicpc.net/problem/2606)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Birus.java)]
+- 안전 영역[[문제](https://www.acmicpc.net/problem/2468)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SafeZone.java)]
 
 ## The others
 ### Dynamic Programming
