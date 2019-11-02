@@ -84,6 +84,7 @@
 - DFS와 BFS[[문제](https://www.acmicpc.net/problem/1260)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DFSandBFS.java)]
 - 바이러스[[문제](https://www.acmicpc.net/problem/2606)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Virus.java)]
 - 안전 영역[[문제](https://www.acmicpc.net/problem/2468)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SafeZone.java)]
+- 단지번호붙이기[[문제](https://www.acmicpc.net/problem/2667)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ComplexNumber.java)]
 
 ## The others
 ### Dynamic Programming
