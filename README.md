@@ -79,6 +79,7 @@
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
 - 토마토[[문제](https://www.acmicpc.net/problem/7576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tomato.java)]
 - 숨바꼭질[[문제](https://www.acmicpc.net/problem/1697)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/HideAndSeek.java)]
+- 상범 빌딩[[문제](https://www.acmicpc.net/problem/6593)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SangBeomBuilding.java)]
 
 ### DFS(Depth First Search)
 - DFS와 BFS[[문제](https://www.acmicpc.net/problem/1260)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DFSandBFS.java)]
