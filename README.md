@@ -28,8 +28,8 @@
 - 최약수[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttVkiq5jEDFASy&categoryId=AWttVkiq5jEDFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/011.c)]
 
 ## Baekjoon Online Judge
-### Sort
-- 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
+### Mathmatics
+- 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
@@ -51,6 +51,7 @@
 - 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
 - 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
 - 나이순 정렬[[문제](https://www.acmicpc.net/problem/10814)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/AgeSort.java)]
+- 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
 
 ### Greedy
 - 잃어버린 괄호[[문제](https://www.acmicpc.net/problem/1541)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LostBracket.java)]
