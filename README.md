@@ -33,6 +33,7 @@
 - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
 - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
 - 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
+- Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
