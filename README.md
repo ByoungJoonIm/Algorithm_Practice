@@ -37,7 +37,7 @@
 - 달팽이는 올라가고 싶다[[문제](https://www.acmicpc.net/problem/2869)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Snail.java)]
 - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
 - 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
-- 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CaingCalendar.java)]
+- 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
