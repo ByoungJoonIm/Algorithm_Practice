@@ -96,6 +96,7 @@
 - 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
 - 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
 - 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
+- 가장 긴 증가하는 부분수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
