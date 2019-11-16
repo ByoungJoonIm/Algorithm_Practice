@@ -86,7 +86,6 @@
 
 ### Dynamic Programming
 - 피보나치 수2[[문제](https://www.acmicpc.net/problem/2748)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibonacci.java)]
-- 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 - 피보나치 함수[[문제](https://www.acmicpc.net/problem/1003)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FibonacciFunction.java)]
 - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
 - 파도반 수열[[문제](https://www.acmicpc.net/problem/9461)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PadovanSequence.java)]
@@ -99,6 +98,8 @@
 - 가장 긴 증가하는 부분 수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
 - 가장 긴 바이토닉 부분 수열[[문제](https://www.acmicpc.net/problem/11054)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestBitonicSub.java)]
 - 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Wire.java)]
+- LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
+- 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
