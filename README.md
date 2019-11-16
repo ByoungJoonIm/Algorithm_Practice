@@ -98,6 +98,7 @@
 - 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
 - 가장 긴 증가하는 부분 수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
 - 가장 긴 바이토닉 부분 수열[[문제](https://www.acmicpc.net/problem/11054)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestBitonicSub.java)]
+- 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Wire.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
