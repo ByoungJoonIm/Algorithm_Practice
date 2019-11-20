@@ -114,6 +114,9 @@
 - 안전 영역[[문제](https://www.acmicpc.net/problem/2468)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SafeZone.java)]
 - 단지번호붙이기[[문제](https://www.acmicpc.net/problem/2667)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ComplexNumber.java)]
 
+### 최단 경로
+- 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
