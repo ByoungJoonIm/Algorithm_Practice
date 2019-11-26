@@ -114,8 +114,8 @@
 - 안전 영역[[문제](https://www.acmicpc.net/problem/2468)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SafeZone.java)]
 - 단지번호붙이기[[문제](https://www.acmicpc.net/problem/2667)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ComplexNumber.java)]
 
-### 최단 경로
-- 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)]
+### 최단 경로(Sortest Path)
+- 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
 
 ## The others
 ### Dynamic Programming
