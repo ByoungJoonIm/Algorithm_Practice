@@ -118,6 +118,11 @@
 - 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
 - 타임머신(Bellman-Ford)[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
 
+### 올림피아드 초등부
+- 한국정보올림피아드시․도지역본선
+  - 지역본선 2004
+    - 일곱 (Bellman-Ford)[[문제](https://www.acmicpc.net/problem/2309)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2309.java)]
+
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
