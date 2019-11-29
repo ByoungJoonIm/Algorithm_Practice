@@ -124,6 +124,7 @@
     - 일곱 난쟁이[[문제](https://www.acmicpc.net/problem/2309)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2309.java)]
     - 줄 세우기[[문제](https://www.acmicpc.net/problem/2605)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2605.java)]
     - 바이러스[[문제](https://www.acmicpc.net/problem/2606)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2606.java)]
+    - 비슷한 단어[[문제](https://www.acmicpc.net/problem/2607)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2607.java)]
 
 ## The others
 ### Dynamic Programming
