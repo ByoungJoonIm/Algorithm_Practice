@@ -129,6 +129,7 @@
     - 대표값2[[문제](https://www.acmicpc.net/problem/2587)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2587.java)]
     - 곱셈[[문제](https://www.acmicpc.net/problem/2588)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2588.java)]
     - 보물섬[[문제](https://www.acmicpc.net/problem/2589)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2589.java)]
+    - 색종이[[문제](https://www.acmicpc.net/problem/2590)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2590.java)]
     
 
 ## The others
