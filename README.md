@@ -133,7 +133,7 @@
   - 지역본선 2006
     - 홀수[[문제](https://www.acmicpc.net/problem/2576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2576.java)]
     - 숫자의 개수[[문제](https://www.acmicpc.net/problem/2577)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2577.java)]
-    
+    - 빙고[[문제](https://www.acmicpc.net/problem/2578)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2578.java)]
 
 ## The others
 ### Dynamic Programming
