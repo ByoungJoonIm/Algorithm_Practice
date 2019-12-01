@@ -140,6 +140,8 @@
     - 색종이[[문제](https://www.acmicpc.net/problem/2563)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2563.java)]
     - 경비원[[문제](https://www.acmicpc.net/problem/2564)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2564.java)]
     - 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2565.java)]
+  - 지역본선 2008
+    - 약수 구하기[[문제](https://www.acmicpc.net/problem/2501)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2501.java)]    
 
 ## The others
 ### Dynamic Programming
