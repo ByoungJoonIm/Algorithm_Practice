@@ -16,7 +16,7 @@ public class Q2578 {
 	private static boolean isBingGo(){
 		int lines = 0;
 		
-		for (int i = 0; i < SIZE; i++) {		//Çà, ¿­¹æÇâ Ã¼Å©
+		for (int i = 0; i < SIZE; i++) {		//í–‰, ì—´ë°©í–¥ ì²´í¬
 			boolean isLineRow = true;
 			boolean isLineCol = true;
 			for (int j = 0; j < SIZE; j++) {	
@@ -34,7 +34,7 @@ public class Q2578 {
 		boolean isLineDiag = true;
 		boolean isLineRevDiag = true;
 		
-		for (int i = 0; i < SIZE; i++) {		//´ë°¢¼± Ã¼Å©
+		for (int i = 0; i < SIZE; i++) {		//ëŒ€ê°ì„  ì²´í¬
 			if(!visited[i][i])
 				isLineDiag = false;
 			if(!visited[i][SIZE - 1 - i])
@@ -83,6 +83,5 @@ public class Q2578 {
 				}
 			}
 		}
-		
 	}
 }
