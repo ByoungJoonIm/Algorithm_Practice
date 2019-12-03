@@ -143,6 +143,7 @@
   - 지역본선 2008
     - 약수 구하기[[문제](https://www.acmicpc.net/problem/2501)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2501.java)]
     - 떡 먹는 호랑이[[문제](https://www.acmicpc.net/problem/2502)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2502.java)]
+    - 숫자 야구[[문제](https://www.acmicpc.net/problem/2503)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2503.java)]
 
 ## The others
 ### Dynamic Programming
