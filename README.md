@@ -147,6 +147,7 @@
     - 괄호의 값[[문제](https://www.acmicpc.net/problem/2504)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2504.java)]
   - 지역본선 2009
     - 윷놀이[[문제](https://www.acmicpc.net/problem/2490)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2490.java)]
+    - 수열[[문제](https://www.acmicpc.net/problem/2491)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2491.java)]
 
 ## The others
 ### Dynamic Programming
