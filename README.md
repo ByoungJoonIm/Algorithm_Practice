@@ -153,6 +153,7 @@
     - 탑[[문제](https://www.acmicpc.net/problem/2493)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2493.java)]
   - 지역본선 2010
     - 검증수[[문제](https://www.acmicpc.net/problem/2475)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2475.java)]
+    - 주사위 게임[[문제](https://www.acmicpc.net/problem/2476)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2476.java)]
 
 ## The others
 ### Dynamic Programming
