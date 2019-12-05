@@ -149,6 +149,7 @@
     - 윷놀이[[문제](https://www.acmicpc.net/problem/2490)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2490.java)]
     - 수열[[문제](https://www.acmicpc.net/problem/2491)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2491.java)]
     - 보석[[문제](https://www.acmicpc.net/problem/2492)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2492.java)]
+    - 탑[[문제](https://www.acmicpc.net/problem/2493)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2493.java)]
 
 ## The others
 ### Dynamic Programming
