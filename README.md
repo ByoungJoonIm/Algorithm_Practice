@@ -157,8 +157,8 @@
     - 참외밭[[문제](https://www.acmicpc.net/problem/2477)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2477.java)]
   - 지역본선 2011
     - 지능형 기차[[문제](https://www.acmicpc.net/problem/2455)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2455.java)]
+    - 나는 학급회장이다[[문제](https://www.acmicpc.net/problem/2456)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2456.java)]
   
-
 ## The others
 ### Dynamic Programming
 - 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
