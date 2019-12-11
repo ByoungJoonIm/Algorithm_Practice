@@ -161,6 +161,7 @@
     - 공주님의 정원[[문제](https://www.acmicpc.net/problem/2457)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2457.java)]
   - 지역본선 2012
     - 오븐 시계[[문제](https://www.acmicpc.net/problem/2525)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2525.java)]
+    - 싸이클[[문제](https://www.acmicpc.net/problem/2526)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2526.java)]
   - 지역본선 2013
     - 그릇[[문제](https://www.acmicpc.net/problem/7567)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q7567.java)]
   
