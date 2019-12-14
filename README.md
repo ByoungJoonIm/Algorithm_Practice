@@ -117,6 +117,7 @@
 
 ### 최단 경로(Sortest Path)
 - 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
+- 최소비용 구하기(Dijkstra)[[문제](https://www.acmicpc.net/problem/1916)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MinCost.java)]
 - 타임머신(Bellman-Ford)[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
 
 ### 올림피아드 초등부
