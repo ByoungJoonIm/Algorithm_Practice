@@ -52,7 +52,6 @@
 - 크로아티아 알파벳[[문제](https://www.acmicpc.net/problem/2941)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CroatiaAlphabet.java)]
 - 그룹 단어 체커[[문제](https://www.acmicpc.net/problem/1316)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/GroupWordChecker.java)]
 
-
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
 
@@ -119,6 +118,9 @@
 - 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
 - 최소비용 구하기(Dijkstra)[[문제](https://www.acmicpc.net/problem/1916)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MinCost.java)]
 - 타임머신(Bellman-Ford)[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
+
+### 이진 탐색(Binary Search)
+- 랜선 자르기[[문제](https://www.acmicpc.net/problem/1654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CuttingLanWire.java)]
 
 ### 올림피아드 초등부
 - 한국정보올림피아드시․도지역본선
