@@ -163,6 +163,7 @@
     - 나는 학급회장이다[[문제](https://www.acmicpc.net/problem/2456)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2456.java)]
     - 공주님의 정원[[문제](https://www.acmicpc.net/problem/2457)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2457.java)]
     - 키 순서[[문제](https://www.acmicpc.net/problem/2458)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2458.java)]
+    - 철사 자르기[[문제](https://www.acmicpc.net/problem/2459)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2459.java)]
   - 지역본선 2012
     - 오븐 시계[[문제](https://www.acmicpc.net/problem/2525)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2525.java)]
     - 싸이클[[문제](https://www.acmicpc.net/problem/2526)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2526.java)]
