@@ -173,6 +173,8 @@
     - 그릇[[문제](https://www.acmicpc.net/problem/7567)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q7567.java)]
     - 덩치[[문제](https://www.acmicpc.net/problem/7568)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q7568.java)]
     - 토마토[[문제](https://www.acmicpc.net/problem/7569)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q7569.java)]
+  - 지역본선 2014
+    - 과자[[문제](https://www.acmicpc.net/problem/10156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10156.java)]
   
 ## The others
 ### Dynamic Programming
