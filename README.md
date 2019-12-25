@@ -176,6 +176,7 @@
   - 지역본선 2014
     - 과자[[문제](https://www.acmicpc.net/problem/10156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10156.java)]
     - 자리배정[[문제](https://www.acmicpc.net/problem/10157)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10157.java)]
+    - 개미[[문제](https://www.acmicpc.net/problem/10158)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10158.java)]
   - 지역본선 2015
     - 10부제[[문제](https://www.acmicpc.net/problem/10797)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10797.java)]
     - 세로읽기[[문제](https://www.acmicpc.net/problem/10798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10798.java)]
