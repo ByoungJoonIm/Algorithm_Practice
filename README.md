@@ -180,6 +180,7 @@
   - 지역본선 2015
     - 10부제[[문제](https://www.acmicpc.net/problem/10797)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10797.java)]
     - 세로읽기[[문제](https://www.acmicpc.net/problem/10798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10798.java)]
+    - 쇠막대기[[문제](https://www.acmicpc.net/problem/10799)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q10799.java)]
   
 ## The others
 ### Dynamic Programming
