@@ -135,6 +135,7 @@
     - 곱셈[[문제](https://www.acmicpc.net/problem/2588)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2588.java)]
     - 보물섬[[문제](https://www.acmicpc.net/problem/2589)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2589.java)]
     - 색종이[[문제](https://www.acmicpc.net/problem/2590)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2590.java)]
+    - 숫자카드[[문제](https://www.acmicpc.net/problem/2591)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2591.java)]
   - 지역본선 2006
     - 홀수[[문제](https://www.acmicpc.net/problem/2576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2576.java)]
     - 숫자의 개수[[문제](https://www.acmicpc.net/problem/2577)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Q2577.java)]
