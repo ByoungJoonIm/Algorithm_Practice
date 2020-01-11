@@ -1,6 +1,6 @@
 # Algorithm_Practice
 - [[Go to code directory](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/code)]
-- [[구현력 향상용(코드만 저장)]()
+- [[구현력 향상용(코드만 저장)]](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/forRank)
 
 ## Concept
 - [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
