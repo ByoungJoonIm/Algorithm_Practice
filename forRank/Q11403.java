@@ -1,3 +1,5 @@
+//cheolyeing_j님 코드를 참고하여 개선
+
 package forRank;
 
 import java.io.BufferedReader;
@@ -11,40 +13,22 @@ public class Q11403 {
 	private static boolean result[][];
 	private static boolean isConnected[][];
 	private static int n;
+	private static boolean visited[];
 	
-	private static class Node{
-		int start;
-		int end;
-		
-		public Node(int start, int end){
-			this.start = start;
-			this.end = end;
-		}
-	}
-	
-	private static void fillResult(){
+	private static void solve(){
 		result = new boolean[n][n];
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				dfs(new Node(i, j), i);
-			}
+		for (int i = 0; i < n; i++) {	//n번만 dfs 실행
+			visited = new boolean[n];	
+			dfs(i);
+			result[i] = visited;
 		}
 	}
 	
-	private static void dfs(Node node, int start){
-		if(isConnected[node.start][node.end]){
-			result[start][node.end] = true;
-
-			if(node.end == start)
-				return;
-			
-			for (int i = 0; i < n; i++) {
-				if(isConnected[node.end][i]){
-					result[start][i] = true;
-					if(start != i)
-						dfs(new Node(node.end, i), start);
-				}
-					
+	private static void dfs(int start){
+		for (int i = 0; i < n; i++) {
+			if(isConnected[start][i] && !visited[i]){
+				visited[i] = true;
+				dfs(i);
 			}
 		}
 	}
@@ -63,7 +47,7 @@ public class Q11403 {
 			}
 		}
 		
-		fillResult();
+		solve();
 		
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n; j++) {
