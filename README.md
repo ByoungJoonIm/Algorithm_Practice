@@ -160,10 +160,12 @@
 ### 자료 구조(Data Structure)
 - 원형 연결 리스트
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1158)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1158.java)]
-- 스택 사용
+- 스택
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1874)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1874.java)]
 - HashSet
   - 수 찾기[[문제](https://www.acmicpc.net/problem/1920)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1920.java)]
+- 큐
+  - 프린터 큐[[문제](https://www.acmicpc.net/problem/1966)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1966.java)]
 
 ### 올림피아드 초등부
 - 한국정보올림피아드시․도지역본선
