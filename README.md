@@ -55,6 +55,8 @@
 - 2진수 1의 갯수
   - 막대기[[문제](https://www.acmicpc.net/problem/1094)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1094.java)]
 - 더하기 사이클[[문제](https://www.acmicpc.net/problem/1110)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1110.java)]
+- 히스토그램
+  - 방 번호[[문제](https://www.acmicpc.net/problem/1475)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1475.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
