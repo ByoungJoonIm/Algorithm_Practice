@@ -44,11 +44,12 @@
 - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
 - 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
 - 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
-- 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
-  - 두 원의 위치관계
-- 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
-  - 제곱수의 규칙
-
+- 두 원의 위치관계
+  - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
+- 제곱수의 규칙
+  - 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
+- 약수
+  - 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
