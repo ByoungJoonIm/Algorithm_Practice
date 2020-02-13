@@ -52,6 +52,8 @@
 - 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
 - 직사각형 최단거리
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
+- 2진수 1의 갯수
+  - 막대기[[문제](https://www.acmicpc.net/problem/1094)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1094.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
