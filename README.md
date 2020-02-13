@@ -125,6 +125,7 @@
 - 바이러스[[문제](https://www.acmicpc.net/problem/2606)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Virus.java)]
 - 안전 영역[[문제](https://www.acmicpc.net/problem/2468)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SafeZone.java)]
 - 단지번호붙이기[[문제](https://www.acmicpc.net/problem/2667)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ComplexNumber.java)]
+- 유기농 배추[[문제](https://www.acmicpc.net/problem/1012)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1012.java)]
 
 ### 최단 경로(Sortest Path)
 - 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
