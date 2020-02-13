@@ -125,8 +125,11 @@
 - LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
 - 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 - 평범한 배낭[[문제](https://www.acmicpc.net/problem/12865)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/OrdinaryKnapsack.java)]
-- 다리 놓기[[문제](https://www.acmicpc.net/problem/1010)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1010.java)]
-  - 시그마 타입의 DP 계산
+- 시그마 타입의 DP 계산
+  - 다리 놓기[[문제](https://www.acmicpc.net/problem/1010)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1010.java)]
+- 일반 냅색류 문제
+  - 제곱수의 합[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
+
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
