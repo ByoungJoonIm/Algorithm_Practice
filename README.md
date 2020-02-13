@@ -59,6 +59,8 @@
   - 방 번호[[문제](https://www.acmicpc.net/problem/1475)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1475.java)]
 - 최소공배수
   - 날짜 계산[[문제](https://www.acmicpc.net/problem/1476)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1476.java)]
+- 0의 갯수 세기
+  - 팩토리얼 0의 개수[[문제](https://www.acmicpc.net/problem/1676)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1676.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
