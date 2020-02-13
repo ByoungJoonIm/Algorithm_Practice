@@ -50,6 +50,8 @@
   - 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
 - 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
 - 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
+- 소수
+  - 소수 구하기[[문제](https://www.acmicpc.net/problem/1929)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1929.java)]
 - 직사각형 최단거리
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
 - 2진수 1의 개수
