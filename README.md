@@ -48,8 +48,8 @@
   - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
 - 제곱수의 규칙
   - 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
-- 약수
-  - 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
+- 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
+- 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
