@@ -46,6 +46,8 @@
 - 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
 - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
   - 두 원의 위치관계
+- 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
+  - 제곱수의 규칙
 
 
 ### String
