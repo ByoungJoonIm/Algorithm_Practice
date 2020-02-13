@@ -52,14 +52,14 @@
 - 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
 - 직사각형 최단거리
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
-- 2진수 1의 갯수
+- 2진수 1의 개수
   - 막대기[[문제](https://www.acmicpc.net/problem/1094)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1094.java)]
 - 더하기 사이클[[문제](https://www.acmicpc.net/problem/1110)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1110.java)]
 - 히스토그램
   - 방 번호[[문제](https://www.acmicpc.net/problem/1475)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1475.java)]
 - 최소공배수
   - 날짜 계산[[문제](https://www.acmicpc.net/problem/1476)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1476.java)]
-- 0의 갯수 세기
+- 0의 개수 세기
   - 팩토리얼 0의 개수[[문제](https://www.acmicpc.net/problem/1676)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1676.java)]
 
 ### String
