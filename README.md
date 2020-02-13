@@ -141,6 +141,10 @@
 ### 이진 탐색(Binary Search)
 - 랜선 자르기[[문제](https://www.acmicpc.net/problem/1654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CuttingLanWire.java)]
 
+### 자료 구조(Data Structure)
+- 원형 연결 리스트
+  - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1158)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1158.java)]
+
 ### 올림피아드 초등부
 - 한국정보올림피아드시․도지역본선
   - 지역본선 2004
