@@ -76,6 +76,8 @@
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
+- 날짜, 요일 계산
+  - 2007년[[문제](https://www.acmicpc.net/problem/1924)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1924.java)]
 
 ### Brute Force
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
@@ -157,6 +159,8 @@
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1158)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1158.java)]
 - 스택 사용
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1874)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1874.java)]
+- HashSet
+  - 수 찾기[[문제](https://www.acmicpc.net/problem/1920)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1920.java)]
 
 ### 올림피아드 초등부
 - 한국정보올림피아드시․도지역본선
