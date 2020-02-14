@@ -65,6 +65,8 @@
   - 최소공배수[[문제](https://www.acmicpc.net/problem/1934)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1934.java)]
 - 0의 개수 세기
   - 팩토리얼 0의 개수[[문제](https://www.acmicpc.net/problem/1676)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1676.java)]
+- 단순 계산
+  - 초콜릿 자르기[[문제](https://www.acmicpc.net/problem/2163)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2163.java)]
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
