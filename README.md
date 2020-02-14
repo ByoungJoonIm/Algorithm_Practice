@@ -69,6 +69,7 @@
 
 
 ### String
+- 단어 길이 재기[[문제](https://www.acmicpc.net/problem/2743)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2743.java)]
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
 - 숫자의 합[[문제](https://www.acmicpc.net/problem/11720)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SumOfNumbers.java)]
 - 알파벳 찾기[[문제](https://www.acmicpc.net/problem/10809)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FindingAlphabet.java)]
