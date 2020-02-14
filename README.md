@@ -50,6 +50,9 @@
 - 단순 계산
   - 초콜릿 자르기[[문제](https://www.acmicpc.net/problem/2163)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2163.java)]
   - 2차원 배열의 합[[문제](https://www.acmicpc.net/problem/2167)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2167.java)]
+- 피보나치수열
+  - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
+
 
 ### String
 - 아스키 코드[[문제](https://www.acmicpc.net/problem/11654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ASCII.java)]
