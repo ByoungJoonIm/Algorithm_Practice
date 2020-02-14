@@ -66,6 +66,7 @@
   - 2차원 배열의 합[[문제](https://www.acmicpc.net/problem/2167)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2167.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
+  - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
 
 
 ### String
