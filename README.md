@@ -168,6 +168,7 @@
 
 ### 이진 탐색(Binary Search)
 - 랜선 자르기[[문제](https://www.acmicpc.net/problem/1654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CuttingLanWire.java)]
+- 나무 자르기[[문제](https://www.acmicpc.net/problem/2805)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2805.java)]
 
 ### 자료 구조(Data Structure)
 - 원형 연결 리스트
