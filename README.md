@@ -27,7 +27,10 @@
   - 문제 : [[구구단](https://www.acmicpc.net/problem/2739)] [[N 찍기](https://www.acmicpc.net/problem/2741)] [[기찍 N](https://www.acmicpc.net/problem/2742)]
   - 코드 : [[구구단](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2739.java)]
 [[N 찍기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2741.java)] [[기찍 N](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2742.java)]
-
+- 기본 배열 활용
+  - 문제 : [[나머지](https://www.acmicpc.net/problem/3052)] [[음계](https://www.acmicpc.net/problem/2920)] 
+  - 코드 : [[나머지](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q3052.java)] [[음계](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2920.java)]
+  
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
@@ -101,8 +104,6 @@
 - 영화감독 숌[[문제](https://www.acmicpc.net/problem/1436)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Director.java)]
 - 재귀 깊이(Depth) 활용
   - 부분수열의 합[[문제](https://www.acmicpc.net/problem/1182)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1182.java)]
-- 음계[[문제](https://www.acmicpc.net/problem/2920)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2920.java)]
-  
 
 ### Sort
 - 수 정렬하기[[문제](https://www.acmicpc.net/problem/2750)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Bubble.java)]
