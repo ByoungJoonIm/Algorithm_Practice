@@ -16,6 +16,10 @@
   - [knapsack problem](http://comganet.github.io/dp/2016/06/03/dp-1003)
 
 ## Baekjoon Online Judge
+### Basic Input and Output
+- 별찍기
+  - 별찍기1[[문제](https://www.acmicpc.net/problem/2438)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)]
+
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
