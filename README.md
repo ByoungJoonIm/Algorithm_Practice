@@ -85,9 +85,10 @@
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
-- 날짜, 요일 계산
-  - 2007년[[문제](https://www.acmicpc.net/problem/1924)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1924.java)]
-
+- 날짜, 요일, 시간 계산
+  - 2007년(날짜, 요일)[[문제](https://www.acmicpc.net/problem/1924)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1924.java)]
+  - 알람 시계(시간)[[문제](https://www.acmicpc.net/problem/2884)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2884.java)]
+  
 ### Brute Force
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
 - 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
