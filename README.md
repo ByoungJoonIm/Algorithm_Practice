@@ -133,6 +133,7 @@
 - 평범한 배낭[[문제](https://www.acmicpc.net/problem/12865)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/OrdinaryKnapsack.java)]
 - 시그마 타입의 DP 계산
   - 다리 놓기[[문제](https://www.acmicpc.net/problem/1010)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1010.java)]
+  - 타일 채우기[[문제](https://www.acmicpc.net/problem/2133)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2133.java)]
 - 일반 냅색류 문제
   - 제곱수의 합[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 
