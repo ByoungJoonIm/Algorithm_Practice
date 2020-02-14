@@ -19,7 +19,7 @@
 ### Basic Input and Output
 - A + B
   - 문제 : [[2](https://www.acmicpc.net/problem/2558)]
-  - 코드 : [[1](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2558.java)]
+  - 코드 : [[2](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2558.java)]
 - 별찍기
   - 문제 : [[1](https://www.acmicpc.net/problem/2438)] [[3](https://www.acmicpc.net/problem/2440)] [[4](https://www.acmicpc.net/problem/2441)] [[5](https://www.acmicpc.net/problem/2442)] [[6](https://www.acmicpc.net/problem/2443)] [[7](https://www.acmicpc.net/problem/2444)] [[8](https://www.acmicpc.net/problem/2445)] [[9](https://www.acmicpc.net/problem/2446)] [[12](https://www.acmicpc.net/problem/2522)]
   - 코드 : [[1](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)] [[3](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2440.java)] [[4](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2441.java)] [[5](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2442.java)] [[6](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2443.java)] [[7](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2444.java)] [[8](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2445.java)] [[9](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2446.java)] [[12](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2522.java)]
@@ -43,6 +43,7 @@
 - 소수
   - 소수 구하기[[문제](https://www.acmicpc.net/problem/1929)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1929.java)]
   - 소수 찾기[[문제](https://www.acmicpc.net/problem/1978)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1978.java)]
+  - 소수[[문제](https://www.acmicpc.net/problem/2581)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2581.java)]
 - 직사각형 최단거리
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
 - 2진수 1의 개수
