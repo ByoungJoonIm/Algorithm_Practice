@@ -51,6 +51,7 @@
   - 소수 구하기[[문제](https://www.acmicpc.net/problem/1929)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1929.java)]
   - 소수 찾기[[문제](https://www.acmicpc.net/problem/1978)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1978.java)]
   - 소수[[문제](https://www.acmicpc.net/problem/2581)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2581.java)]
+  - 베르트랑 공준[[문제](https://www.acmicpc.net/problem/4948)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q4948.java)]
 - 직사각형 최단거리
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
 - 2진수 1의 개수
