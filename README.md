@@ -19,6 +19,7 @@
 ### Basic Input and Output
 - 별찍기
   - 별찍기1[[문제](https://www.acmicpc.net/problem/2438)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)]
+  - 별찍기3[[문제](https://www.acmicpc.net/problem/2440)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2440.java)]
 
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
