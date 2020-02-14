@@ -23,7 +23,7 @@
 - 별찍기
   - 문제 : [[1](https://www.acmicpc.net/problem/2438)] [[3](https://www.acmicpc.net/problem/2440)] [[4](https://www.acmicpc.net/problem/2441)] [[5](https://www.acmicpc.net/problem/2442)] [[6](https://www.acmicpc.net/problem/2443)] [[7](https://www.acmicpc.net/problem/2444)] [[8](https://www.acmicpc.net/problem/2445)] [[9](https://www.acmicpc.net/problem/2446)] [[12](https://www.acmicpc.net/problem/2522)]
   - 코드 : [[1](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)] [[3](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2440.java)] [[4](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2441.java)] [[5](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2442.java)] [[6](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2443.java)] [[7](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2444.java)] [[8](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2445.java)] [[9](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2446.java)] [[12](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2522.java)]
-  
+- 구구단[[문제](https://www.acmicpc.net/problem/2739)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2739.java)]
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
