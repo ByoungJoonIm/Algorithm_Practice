@@ -123,7 +123,8 @@
   - 다리 놓기[[문제](https://www.acmicpc.net/problem/1010)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1010.java)]
   - 타일 채우기[[문제](https://www.acmicpc.net/problem/2133)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2133.java)]
 - 일반 냅색류 문제
-  - 제곱수의 합[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
+  - 동전1(중복 허용)[[문제](https://www.acmicpc.net/problem/2293)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2293.java)]
+- 제곱수의 합(중복 허용)[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 
 
 ### BFS(Breadth First Search)
