@@ -82,6 +82,9 @@
 - 다이얼[[문제](https://www.acmicpc.net/problem/5622)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dial.java)]
 - 크로아티아 알파벳[[문제](https://www.acmicpc.net/problem/2941)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CroatiaAlphabet.java)]
 - 그룹 단어 체커[[문제](https://www.acmicpc.net/problem/1316)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/GroupWordChecker.java)]
+- 파싱
+  - KMP는 왜 KMP일까?[[문제](https://www.acmicpc.net/problem/2902)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2902.java)]
+  
 
 ### Implement
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
