@@ -24,9 +24,9 @@
   - 문제 : [[1](https://www.acmicpc.net/problem/2438)] [[3](https://www.acmicpc.net/problem/2440)] [[4](https://www.acmicpc.net/problem/2441)] [[5](https://www.acmicpc.net/problem/2442)] [[6](https://www.acmicpc.net/problem/2443)] [[7](https://www.acmicpc.net/problem/2444)] [[8](https://www.acmicpc.net/problem/2445)] [[9](https://www.acmicpc.net/problem/2446)] [[12](https://www.acmicpc.net/problem/2522)]
   - 코드 : [[1](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)] [[3](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2440.java)] [[4](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2441.java)] [[5](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2442.java)] [[6](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2443.java)] [[7](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2444.java)] [[8](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2445.java)] [[9](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2446.java)] [[12](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2522.java)]
 - 기본 입출력
-  - 문제 : [[구구단](https://www.acmicpc.net/problem/2739)] [[N 찍기](https://www.acmicpc.net/problem/2741)]
+  - 문제 : [[구구단](https://www.acmicpc.net/problem/2739)] [[N 찍기](https://www.acmicpc.net/problem/2741)] [[기찍 N](https://www.acmicpc.net/problem/2742)]
   - 코드 : [[구구단](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2739.java)]
-[[N 찍기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2741.java)]
+[[N 찍기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2741.java)] [[기찍 N](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2742.java)]
 
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
