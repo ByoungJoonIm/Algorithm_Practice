@@ -71,6 +71,7 @@
   - 윤년[[문제](https://www.acmicpc.net/problem/2753)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2753.java)]
   - R2[[문제](https://www.acmicpc.net/problem/3046)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q3046.java)]
   - 평균은 넘겠지[[문제](https://www.acmicpc.net/problem/4344)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q4344.java)]
+  - 평균 점수[[문제](https://www.acmicpc.net/problem/10039)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10039.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
   - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
