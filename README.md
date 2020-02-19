@@ -194,6 +194,7 @@
 - 원형 연결 리스트
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1158)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1158.java)]
 - 스택
+  - 스택(구현)[[문제](https://www.acmicpc.net/problem/10828)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10828.java)]
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1874)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1874.java)]
 - HashSet
   - 수 찾기[[문제](https://www.acmicpc.net/problem/1920)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1920.java)]
