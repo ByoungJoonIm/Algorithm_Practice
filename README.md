@@ -125,6 +125,7 @@
 - 잃어버린 괄호[[문제](https://www.acmicpc.net/problem/1541)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LostBracket.java)]
 - 회의실 배정[[문제](https://www.acmicpc.net/problem/1931)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ConferenceRoom.java)]
 - 컵라면[[문제](https://www.acmicpc.net/problem/1781)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CupNoodle.java)]
+- 거스름돈[[문제](https://www.acmicpc.net/problem/5585)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q5585.java)]
 
 ### Backtracking
 - N-Queen[[문제](https://www.acmicpc.net/problem/9663)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/NQueen.java)]
