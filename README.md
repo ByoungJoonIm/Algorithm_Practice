@@ -59,6 +59,7 @@
 - 더하기 사이클[[문제](https://www.acmicpc.net/problem/1110)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1110.java)]
 - 히스토그램
   - 방 번호[[문제](https://www.acmicpc.net/problem/1475)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1475.java)]
+  - 알파벳 개수[[문제](https://www.acmicpc.net/problem/10808)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10808.java)]
 - 최대, 최소공배수
   - 날짜 계산[[문제](https://www.acmicpc.net/problem/1476)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1476.java)]
   - 최소공배수[[문제](https://www.acmicpc.net/problem/1934)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1934.java)]
