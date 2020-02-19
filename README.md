@@ -158,7 +158,8 @@
 - 제곱수의 합(중복 허용)[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 - 점화식 찾기
   - 1,2,3더하기[[문제](https://www.acmicpc.net/problem/9095)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9095.java)]
-
+  - 스티커[[문제](https://www.acmicpc.net/problem/9465)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9465.java)]
+  
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
 - 토마토[[문제](https://www.acmicpc.net/problem/7576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tomato.java)]
