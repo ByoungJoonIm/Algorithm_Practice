@@ -192,6 +192,7 @@
   - 요세푸스 문제[[문제](https://www.acmicpc.net/problem/1874)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1874.java)]
 - HashSet
   - 수 찾기[[문제](https://www.acmicpc.net/problem/1920)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1920.java)]
+  - 괄호[[문제](https://www.acmicpc.net/problem/9012)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9012.java)]
 - 큐
   - 프린터 큐[[문제](https://www.acmicpc.net/problem/1966)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1966.java)]
 - 트리
