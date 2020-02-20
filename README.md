@@ -84,6 +84,8 @@
 - 이항계수
   - 이항 계수 1[[문제](https://www.acmicpc.net/problem/11050)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11050.java)]
     - 파스칼의 삼각형으로 푸는 것이 더 바람직함. 이 경우는 계산식으로 풀이함
+- 소인수분해
+  - 소인수분해[[문제](https://www.acmicpc.net/problem/11653)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11653.java)]
 
 ### String
 - 단어 길이 재기[[문제](https://www.acmicpc.net/problem/2743)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2743.java)]
