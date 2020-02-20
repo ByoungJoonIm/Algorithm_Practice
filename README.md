@@ -18,8 +18,8 @@
 ## Baekjoon Online Judge
 ### Basic Input and Output
 - A + B
-  - 문제 : [[2](https://www.acmicpc.net/problem/2558)]
-  - 코드 : [[2](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2558.java)]
+  - 문제 : [[2](https://www.acmicpc.net/problem/2558)] [[3](https://www.acmicpc.net/problem/10950)]
+  - 코드 : [[2](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2558.java)] [[3](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10950.java)]
 - 별찍기
   - 문제 : [[1](https://www.acmicpc.net/problem/2438)] [[3](https://www.acmicpc.net/problem/2440)] [[4](https://www.acmicpc.net/problem/2441)] [[5](https://www.acmicpc.net/problem/2442)] [[6](https://www.acmicpc.net/problem/2443)] [[7](https://www.acmicpc.net/problem/2444)] [[8](https://www.acmicpc.net/problem/2445)] [[9](https://www.acmicpc.net/problem/2446)] [[12](https://www.acmicpc.net/problem/2522)]
   - 코드 : [[1](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2438.java)] [[3](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2440.java)] [[4](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2441.java)] [[5](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2442.java)] [[6](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2443.java)] [[7](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2444.java)] [[8](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2445.java)] [[9](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2446.java)] [[12](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2522.java)]
