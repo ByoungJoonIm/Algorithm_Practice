@@ -171,6 +171,7 @@
   - 타일 채우기[[문제](https://www.acmicpc.net/problem/2133)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2133.java)]
 - 일반 냅색류 문제
   - 동전1(중복 허용)[[문제](https://www.acmicpc.net/problem/2293)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2293.java)]
+  - 퇴사(기간 중복 불허)[[문제](https://www.acmicpc.net/problem/14501)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14501.java)]
 - 제곱수의 합(중복 허용)[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 - 점화식 찾기
   - 1,2,3더하기[[문제](https://www.acmicpc.net/problem/9095)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9095.java)]
