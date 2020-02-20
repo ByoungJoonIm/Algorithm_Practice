@@ -168,6 +168,8 @@
   - 1,2,3더하기[[문제](https://www.acmicpc.net/problem/9095)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9095.java)]
   - 스티커[[문제](https://www.acmicpc.net/problem/9465)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9465.java)]
   - 이동하기[[문제](https://www.acmicpc.net/problem/11048)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11048.java)]
+- 파스칼의 삼각형
+  - 이항 계수 2[[문제](https://www.acmicpc.net/problem/11051)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11051.java)]
   
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
