@@ -139,6 +139,9 @@
 - 거스름돈[[문제](https://www.acmicpc.net/problem/5585)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q5585.java)]
 - ATM[[문제](https://www.acmicpc.net/problem/11399)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11399.java)]
 
+### Basic Recursion
+- 하노이의 탑 이동 순서[[문제](https://www.acmicpc.net/problem/11729)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11729.java)]
+
 ### Backtracking
 - N-Queen[[문제](https://www.acmicpc.net/problem/9663)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/NQueen.java)]
 - 암호 만들기[[문제](https://www.acmicpc.net/problem/1759)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PasswordMaking.java)]
