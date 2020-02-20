@@ -28,6 +28,8 @@
   - 문제 : [[나머지](https://www.acmicpc.net/problem/3052)] [[음계](https://www.acmicpc.net/problem/2920)] 
   - 코드 : [[나머지](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q3052.java)] [[음계](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2920.java)]
 - [끝이 정해지지 않은 문자열 입력 받기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/baekjoonCodeInputForm.md)
+  - 그대로 출력하기[[문제](https://www.acmicpc.net/problem/11718)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11718.java)]
+  - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
