@@ -2,16 +2,6 @@
 ## 참고
 - 현재 코드를 유형별로 정리중
 
-## code reference
-- [[Go to code directory](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/code)]
-- [[구현력 향상용(코드만 저장)]](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/forRank)
-
-## Concept
-- [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
-- [동적계획법](http://egloos.zum.com/kuphy00/v/2472789)
-  - [coin problem](http://comganet.github.io/dp/2016/06/03/dp-1002)
-  - [knapsack problem](http://comganet.github.io/dp/2016/06/03/dp-1003)
-
 ## Baekjoon Online Judge
 ### Basic Input and Output
 - A + B
@@ -112,6 +102,7 @@
   - 2007년(날짜, 요일)[[문제](https://www.acmicpc.net/problem/1924)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1924.java)]
   - 알람 시계(시간)[[문제](https://www.acmicpc.net/problem/2884)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2884.java)]
   - 주사위 굴리기[[문제](https://www.acmicpc.net/problem/14499)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14499.java)]
+  
 ### Brute Force
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
 - 분해합[[문제](https://www.acmicpc.net/problem/2231)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DecompositionSum.java)]
@@ -196,7 +187,6 @@
 - 상범 빌딩[[문제](https://www.acmicpc.net/problem/6593)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SangBeomBuilding.java)]
 - 최단 경로
   - 미로 탐색[[문제](https://www.acmicpc.net/problem/2178)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2178.java)]
-
 
 ### DFS(Depth First Search)
 - DFS와 BFS[[문제](https://www.acmicpc.net/problem/1260)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/DFSandBFS.java)]
@@ -324,13 +314,6 @@
 ### D4
 - 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[Fail](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/001.c)]
 - 최약수[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttVkiq5jEDFASy&categoryId=AWttVkiq5jEDFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/011.c)]
-
-  
-## The others
-### Dynamic Programming
-- 피보나치 수열[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibo.java)]
-- 동전 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Coin.java)]
-- 배낭 문제[[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Knapsack.java)]
 
 <a href="#top">[Back to top]</a>
 
