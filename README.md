@@ -79,6 +79,8 @@
   - 피보나치 수 5[[문제](https://www.acmicpc.net/problem/10870)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10870.java)]
 - 규칙 찾기
   - 셀프 넘버[[문제](https://www.acmicpc.net/problem/4673)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q4673.java)]
+- 팩토리얼
+  - 팩토리얼[[문제](https://www.acmicpc.net/problem/10872)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10872.java)]
 
 
 ### String
