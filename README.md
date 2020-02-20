@@ -6,9 +6,6 @@
 - [[Go to code directory](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/code)]
 - [[구현력 향상용(코드만 저장)]](https://github.com/ByoungJoonIm/Algorithm_Practice/tree/master/forRank)
 
-## Baekjoon input Format
-- [끝이 정해지지 않은 문자열 입력 받기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/baekjoonCodeInputForm.md)
-
 ## Concept
 - [정렬 개념](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/concept/sorts.md)
 - [동적계획법](http://egloos.zum.com/kuphy00/v/2472789)
@@ -30,6 +27,7 @@
 - 기본 배열 활용
   - 문제 : [[나머지](https://www.acmicpc.net/problem/3052)] [[음계](https://www.acmicpc.net/problem/2920)] 
   - 코드 : [[나머지](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q3052.java)] [[음계](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2920.java)]
+- [끝이 정해지지 않은 문자열 입력 받기](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/baekjoonCodeInputForm.md)
   
 ### Mathmatics
 - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
