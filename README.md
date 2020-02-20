@@ -119,7 +119,7 @@
 - 영화감독 숌[[문제](https://www.acmicpc.net/problem/1436)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Director.java)]
 - 재귀 깊이(Depth) 활용
   - 부분수열의 합[[문제](https://www.acmicpc.net/problem/1182)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1182.java)]
-
+- 테르로미노[[문제](https://www.acmicpc.net/problem/14500)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14500.java)]
 ### Sort
 - 수 정렬하기[[문제](https://www.acmicpc.net/problem/2750)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Bubble.java)]
 - 수 정렬하기2[[문제](https://www.acmicpc.net/problem/2751)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Quick.java)]
