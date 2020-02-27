@@ -155,8 +155,6 @@
 - 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
 - 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
 - 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
-- 가장 긴 증가하는 부분 수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
-- 가장 긴 바이토닉 부분 수열[[문제](https://www.acmicpc.net/problem/11054)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestBitonicSub.java)]
 - 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Wire.java)]
 - LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
 - 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
@@ -179,7 +177,10 @@
   - 이항 계수 2[[문제](https://www.acmicpc.net/problem/11051)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11051.java)]
 - 증가/감소 부분 수열
   - 가장 큰 증가 부분 수열[[문제](https://www.acmicpc.net/problem/11055)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11055.java)]
-  
+  - 가장 긴 감소하는 부분수열[[문제](https://www.acmicpc.net/problem/11722)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11722.java)]
+  - 가장 긴 증가하는 부분 수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
+  - 가장 긴 바이토닉 부분 수열[[문제](https://www.acmicpc.net/problem/11054)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestBitonicSub.java)]
+
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
 - 토마토[[문제](https://www.acmicpc.net/problem/7576)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tomato.java)]
