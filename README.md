@@ -122,12 +122,14 @@
   - 통계학(음수 범위 포함)[[문제](https://www.acmicpc.net/problem/2108)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Statistics.java)]
 - 기타 소트(구현)
   - 소트인사이드[[문제](https://www.acmicpc.net/problem/1427)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SortInside.java)]
-- 좌표 정렬하기[[문제](https://www.acmicpc.net/problem/11650)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort.java)]
-- 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
-- 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
-- 나이순 정렬[[문제](https://www.acmicpc.net/problem/10814)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/AgeSort.java)]
+- 객체 정렬
+  - 좌표 정렬하기[[문제](https://www.acmicpc.net/problem/11650)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort.java)]
+  - 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
+  - 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
+  - 나이순 정렬[[문제](https://www.acmicpc.net/problem/10814)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/AgeSort.java)]
 - 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
-- 세 수[[문제](https://www.acmicpc.net/problem/10817)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10817.java)]
+- 정렬 라이브러리 사용
+  - 세 수[[문제](https://www.acmicpc.net/problem/10817)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10817.java)]
 
 ### Greedy
 - 잃어버린 괄호[[문제](https://www.acmicpc.net/problem/1541)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LostBracket.java)]
