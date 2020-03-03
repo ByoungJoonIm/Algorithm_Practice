@@ -154,16 +154,14 @@
   - 피보나치 수2[[문제](https://www.acmicpc.net/problem/2748)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibonacci.java)]
   - 피보나치 함수[[문제](https://www.acmicpc.net/problem/1003)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FibonacciFunction.java)]
   - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
-- LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
-- 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
-- 평범한 배낭[[문제](https://www.acmicpc.net/problem/12865)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/OrdinaryKnapsack.java)]
 - 시그마 타입의 DP 계산
   - 다리 놓기[[문제](https://www.acmicpc.net/problem/1010)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1010.java)]
   - 타일 채우기[[문제](https://www.acmicpc.net/problem/2133)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2133.java)]
-- 일반 냅색류 문제
+- 냅색류 문제
   - 동전1(중복 허용)[[문제](https://www.acmicpc.net/problem/2293)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2293.java)]
   - 퇴사(기간 중복 불허)[[문제](https://www.acmicpc.net/problem/14501)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14501.java)]
   - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
+  - 평범한 배낭(중복 불허)[[문제](https://www.acmicpc.net/problem/12865)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/OrdinaryKnapsack.java)]
 - 제곱수의 합(중복 허용)[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 - 점화식 찾기
   - 1,2,3더하기[[문제](https://www.acmicpc.net/problem/9095)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9095.java)]
@@ -179,6 +177,8 @@
   - 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
   - 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
   - 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
+  - LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
+  - 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 - 파스칼의 삼각형
   - 이항 계수 2[[문제](https://www.acmicpc.net/problem/11051)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11051.java)]
 - 증가/감소 부분 수열
