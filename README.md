@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
 - 달팽이는 올라가고 싶다[[문제](https://www.acmicpc.net/problem/2869)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Snail.java)]
 - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
 - 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
@@ -53,7 +52,7 @@
   - 최대공약수와 최소공배수[[문제](https://www.acmicpc.net/problem/2609)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2609.java)]
 - 0의 개수 세기
   - 팩토리얼 0의 개수[[문제](https://www.acmicpc.net/problem/1676)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1676.java)]
-- 단순 계산
+- 계산, 수식 문제
   - 초콜릿 자르기[[문제](https://www.acmicpc.net/problem/2163)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2163.java)]
   - 2차원 배열의 합[[문제](https://www.acmicpc.net/problem/2167)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2167.java)]
   - 윤년[[문제](https://www.acmicpc.net/problem/2753)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2753.java)]
@@ -62,6 +61,7 @@
   - 평균 점수[[문제](https://www.acmicpc.net/problem/10039)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10039.java)]
   - 시험 감독[[문제](https://www.acmicpc.net/problem/13458)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q13458.java)]
   - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
+  - Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
   - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
