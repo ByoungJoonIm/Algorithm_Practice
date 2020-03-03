@@ -210,9 +210,11 @@
 - 로봇 청소기[[문제](https://www.acmicpc.net/problem/14503)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14503.java)]
 
 ### 최단 경로(Sortest Path)
-- 최단 경로(Dijkstra)[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
-- 최소비용 구하기(Dijkstra)[[문제](https://www.acmicpc.net/problem/1916)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MinCost.java)]
-- 타임머신(Bellman-Ford)[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
+- Dijkstra
+  - 최단 경로[[문제](https://www.acmicpc.net/problem/1753)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra.java)][[개선된 코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Dijkstra2.java)]
+  - 최소비용 구하기[[문제](https://www.acmicpc.net/problem/1916)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MinCost.java)]
+- Bellman-Ford
+  - 타임머신[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
 
 ### 이진 탐색(Binary Search)
 - 랜선 자르기[[문제](https://www.acmicpc.net/problem/1654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CuttingLanWire.java)]
