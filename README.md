@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
 - 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
 - 두 원의 위치관계
   - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
@@ -144,6 +143,8 @@
 - 연산자 끼워넣기[[문제](https://www.acmicpc.net/problem/14888)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14888.java)]
 
 ### Dynamic Programming
+- 기본 DP 문제
+  - 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
 - 피보나치 수2[[문제](https://www.acmicpc.net/problem/2748)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibonacci.java)]
 - 피보나치 함수[[문제](https://www.acmicpc.net/problem/1003)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FibonacciFunction.java)]
 - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
