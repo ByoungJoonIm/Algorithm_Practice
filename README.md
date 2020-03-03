@@ -120,7 +120,8 @@
 - 카운팅 소트(구현)
   - 수 정렬하기3[[문제](https://www.acmicpc.net/problem/10989)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Counting.java)]
   - 통계학(음수 범위 포함)[[문제](https://www.acmicpc.net/problem/2108)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Statistics.java)]
-- 소트인사이드[[문제](https://www.acmicpc.net/problem/1427)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SortInside.java)]
+- 기타 소트(구현)
+  - 소트인사이드[[문제](https://www.acmicpc.net/problem/1427)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SortInside.java)]
 - 좌표 정렬하기[[문제](https://www.acmicpc.net/problem/11650)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort.java)]
 - 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
 - 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
