@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
 - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
 - 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
 - Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
@@ -165,6 +164,7 @@
 - 일반 냅색류 문제
   - 동전1(중복 허용)[[문제](https://www.acmicpc.net/problem/2293)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2293.java)]
   - 퇴사(기간 중복 불허)[[문제](https://www.acmicpc.net/problem/14501)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14501.java)]
+  - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
 - 제곱수의 합(중복 허용)[[문제](https://www.acmicpc.net/problem/1699)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1699.java)]
 - 점화식 찾기
   - 1,2,3더하기[[문제](https://www.acmicpc.net/problem/9095)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q9095.java)]
