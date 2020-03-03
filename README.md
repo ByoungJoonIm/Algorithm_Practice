@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
 - 두 원의 위치관계
   - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
 - 제곱수의 규칙
@@ -69,6 +68,7 @@
   - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
   - 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
   - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
+  - 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
 - 팩토리얼
   - 팩토리얼[[문제](https://www.acmicpc.net/problem/10872)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10872.java)]
 - 이항계수
