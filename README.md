@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 달팽이는 올라가고 싶다[[문제](https://www.acmicpc.net/problem/2869)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Snail.java)]
 - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
 - 부녀회장이 될테야[[문제](https://www.acmicpc.net/problem/2775)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Chairman.java)]
 - 카잉 달력[[문제](https://www.acmicpc.net/problem/6064)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/KaingCalendar.java)]
@@ -62,6 +61,7 @@
   - 시험 감독[[문제](https://www.acmicpc.net/problem/13458)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q13458.java)]
   - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
   - Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
+  - 달팽이는 올라가고 싶다[[문제](https://www.acmicpc.net/problem/2869)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Snail.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
   - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
