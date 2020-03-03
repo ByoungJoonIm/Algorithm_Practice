@@ -99,7 +99,7 @@
 - 날짜, 요일, 시간 계산
   - 2007년(날짜, 요일)[[문제](https://www.acmicpc.net/problem/1924)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1924.java)]
   - 알람 시계(시간)[[문제](https://www.acmicpc.net/problem/2884)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2884.java)]
-  - 주사위 굴리기[[문제](https://www.acmicpc.net/problem/14499)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14499.java)]
+- 주사위 굴리기[[문제](https://www.acmicpc.net/problem/14499)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14499.java)]
   
 ### Brute Force
 - 블랙잭[[문제](https://www.acmicpc.net/problem/2798)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Blackjack.java)]
