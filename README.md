@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
 - Fly me to the Alpha Centauri[[문제](https://www.acmicpc.net/problem/1011)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FlyMeToTheAlphaCentauri.java)]
 - 달팽이는 올라가고 싶다[[문제](https://www.acmicpc.net/problem/2869)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Snail.java)]
 - ACM 호텔[[문제](https://www.acmicpc.net/problem/10250)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ACMHotel.java)]
@@ -63,13 +62,14 @@
   - 평균 점수[[문제](https://www.acmicpc.net/problem/10039)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10039.java)]
   - 시험 감독[[문제](https://www.acmicpc.net/problem/13458)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q13458.java)]
   - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
-  - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
   - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
   - 피보나치 수 5[[문제](https://www.acmicpc.net/problem/10870)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10870.java)]
 - 규칙 찾기
   - 셀프 넘버[[문제](https://www.acmicpc.net/problem/4673)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q4673.java)]
+  - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
+  - 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
 - 팩토리얼
   - 팩토리얼[[문제](https://www.acmicpc.net/problem/10872)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10872.java)]
 - 이항계수
