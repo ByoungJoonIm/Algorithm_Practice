@@ -115,6 +115,7 @@
 ### Sort
 - 버블 소트(구현)
   - 수 정렬하기[[문제](https://www.acmicpc.net/problem/2750)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Bubble.java)]
+  - 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
 - 퀵 소트(구현)
   - 수 정렬하기2[[문제](https://www.acmicpc.net/problem/2751)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Quick.java)]
 - 카운팅 소트(구현)
@@ -127,7 +128,6 @@
   - 좌표 정렬하기2[[문제](https://www.acmicpc.net/problem/11651)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CoordinatesSort2.java)]
   - 단어 정렬[[문제](https://www.acmicpc.net/problem/1181)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/WordSort.java)]
   - 나이순 정렬[[문제](https://www.acmicpc.net/problem/10814)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/AgeSort.java)]
-- 보물[[문제](https://www.acmicpc.net/problem/1026)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Treasure.java)]
 - 정렬 라이브러리 사용
   - 세 수[[문제](https://www.acmicpc.net/problem/10817)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10817.java)]
 
