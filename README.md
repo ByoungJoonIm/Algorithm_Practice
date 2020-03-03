@@ -22,7 +22,6 @@
   - 그대로 출력하기 2[[문제](https://www.acmicpc.net/problem/11719)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11719.java)]
   
 ### Mathmatics
-- 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 - 설탕 배달[[문제](https://www.acmicpc.net/problem/2839)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Sugar.java)]
 - 벌집[[문제](https://www.acmicpc.net/problem/2292)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hive.java)]
 - 분수찾기[[문제](https://www.acmicpc.net/problem/1193)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fraction.java)]
@@ -65,6 +64,7 @@
   - 평균은 넘겠지[[문제](https://www.acmicpc.net/problem/4344)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q4344.java)]
   - 평균 점수[[문제](https://www.acmicpc.net/problem/10039)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10039.java)]
   - 시험 감독[[문제](https://www.acmicpc.net/problem/13458)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q13458.java)]
+  - 손익분기점[[문제](https://www.acmicpc.net/problem/1712)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BreakEvenPoint.java)]
 - 피보나치수열
   - 이친수[[문제](https://www.acmicpc.net/problem/2193)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2193.java)]
   - 피보나치 수[[문제](https://www.acmicpc.net/problem/2747)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2747.java)]
