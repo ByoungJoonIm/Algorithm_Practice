@@ -154,13 +154,6 @@
   - 피보나치 수2[[문제](https://www.acmicpc.net/problem/2748)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Fibonacci.java)]
   - 피보나치 함수[[문제](https://www.acmicpc.net/problem/1003)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/FibonacciFunction.java)]
   - 01 타일[[문제](https://www.acmicpc.net/problem/1904)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Tile01.java)]
-- RGB 거리[[문제](https://www.acmicpc.net/problem/1149)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/RGB.java)]
-- 정수 삼각형[[문제](https://www.acmicpc.net/problem/1932)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/IntegerTriangle.java)]
-- 계단 오르기[[문제](https://www.acmicpc.net/problem/2579)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Stairs.java)]
-- 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
-- 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
-- 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
-- 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Wire.java)]
 - LCS[[문제](https://www.acmicpc.net/problem/9251)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LCS.java)]
 - 연속합[[문제](https://www.acmicpc.net/problem/1912)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/ContinuousSum.java)]
 - 평범한 배낭[[문제](https://www.acmicpc.net/problem/12865)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/OrdinaryKnapsack.java)]
@@ -180,6 +173,12 @@
   - 2xn 타일링[[문제](https://www.acmicpc.net/problem/11726)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11726.java)]
   - 2xn 타일링 2[[문제](https://www.acmicpc.net/problem/11727)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11727.java)]
   - 파도반 수열[[문제](https://www.acmicpc.net/problem/9461)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/PadovanSequence.java)]
+  - RGB 거리[[문제](https://www.acmicpc.net/problem/1149)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/RGB.java)]
+  - 정수 삼각형[[문제](https://www.acmicpc.net/problem/1932)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/IntegerTriangle.java)]
+  - 계단 오르기[[문제](https://www.acmicpc.net/problem/2579)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Stairs.java)]
+  - 1로 만들기[[문제](https://www.acmicpc.net/problem/1463)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/MakeAsOne.java)]
+  - 쉬운 계단 수[[문제](https://www.acmicpc.net/problem/10844)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/EasyStairsNumber.java)]
+  - 포도주 시식[[문제](https://www.acmicpc.net/problem/2156)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SampleWine.java)]
 - 파스칼의 삼각형
   - 이항 계수 2[[문제](https://www.acmicpc.net/problem/11051)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11051.java)]
 - 증가/감소 부분 수열
@@ -187,6 +186,7 @@
   - 가장 긴 감소하는 부분수열[[문제](https://www.acmicpc.net/problem/11722)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11722.java)]
   - 가장 긴 증가하는 부분 수열[[문제](https://www.acmicpc.net/problem/11053)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestIncreasingSub.java)]
   - 가장 긴 바이토닉 부분 수열[[문제](https://www.acmicpc.net/problem/11054)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/LongestBitonicSub.java)]
+  - 전깃줄[[문제](https://www.acmicpc.net/problem/2565)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Wire.java)]
 
 ### BFS(Breadth First Search)
 - 상근이의 여행[[문제](https://www.acmicpc.net/problem/9372)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Travel.java)]
