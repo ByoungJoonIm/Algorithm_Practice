@@ -210,6 +210,7 @@
 - 연결 요소의 개수[[문제](https://www.acmicpc.net/problem/11724)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11724.java)]
 - 연구소[[문제](https://www.acmicpc.net/problem/14502)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14502.java)]
 - 로봇 청소기[[문제](https://www.acmicpc.net/problem/14503)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q14503.java)]
+- N과 M(1)[[문제](https://www.acmicpc.net/problem/15649)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q15649.java)]
 
 ### 최단 경로(Sortest Path)
 - Dijkstra
