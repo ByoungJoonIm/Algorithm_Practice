@@ -93,6 +93,9 @@
   - KMP는 왜 KMP일까?[[문제](https://www.acmicpc.net/problem/2902)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2902.java)]
 - 문자열 자르기
   - 열개 씩 끊어 출력하기[[문제](https://www.acmicpc.net/problem/11721)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11721.java)]
+- 단어 히스토그램
+  - 명령 프롬프트[[문제](https://www.acmicpc.net/problem/1032)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1032.java)]
+
 
 ### Implement(Simulation)
 - 듣보잡[[문제](https://www.acmicpc.net/problem/1764)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/Hearsee.java)]
