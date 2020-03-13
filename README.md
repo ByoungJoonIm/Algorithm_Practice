@@ -243,6 +243,8 @@
   - 트리 순회[[문제](https://www.acmicpc.net/problem/1991)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1991.java)]
 - 덱
   - 덱(구현)[[문제](https://www.acmicpc.net/problem/10866)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10866.java)]
+- Union Find
+  - 집합의 표현[[문제](https://www.acmicpc.net/problem/1717)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1717.java)]
 
 
 ### 올림피아드 초등부
