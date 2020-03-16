@@ -26,8 +26,6 @@
   - 터렛[[문제](https://www.acmicpc.net/problem/1002)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1002.java)]
 - 제곱수의 규칙
   - 분산처리[[문제](https://www.acmicpc.net/problem/1009)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1009.java)]
-- 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
-- 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
 - 소수
   - 소수 구하기[[문제](https://www.acmicpc.net/problem/1929)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1929.java)]
   - 소수 찾기[[문제](https://www.acmicpc.net/problem/1978)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1978.java)]
@@ -38,7 +36,6 @@
   - 직사각형에서 탈출[[문제](https://www.acmicpc.net/problem/1085)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1085.java)]
 - 2진수 1의 개수
   - 막대기[[문제](https://www.acmicpc.net/problem/1094)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1094.java)]
-- 더하기 사이클[[문제](https://www.acmicpc.net/problem/1110)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1110.java)]
 - 히스토그램
   - 방 번호[[문제](https://www.acmicpc.net/problem/1475)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1475.java)]
   - 알파벳 개수[[문제](https://www.acmicpc.net/problem/10808)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q10808.java)]
@@ -76,6 +73,10 @@
     - 파스칼의 삼각형으로 푸는 것이 더 바람직함. 이 경우는 계산식으로 풀이함
 - 소인수분해
   - 소인수분해[[문제](https://www.acmicpc.net/problem/11653)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q11653.java)]
+- 미분류
+  - 약수[[문제](https://www.acmicpc.net/problem/1037)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1037.java)]
+  - 한수[[문제](https://www.acmicpc.net/problem/1065)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1065.java)]
+  - 더하기 사이클[[문제](https://www.acmicpc.net/problem/1110)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1110.java)]
 
 ### String
 - 단어 길이 재기[[문제](https://www.acmicpc.net/problem/2743)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2743.java)]
