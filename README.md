@@ -331,7 +331,6 @@
 - (1206)[S/W 문제해결 기본] 1일차 - View[[문제](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/012.py))]
 
 ### D4
-- 화섭이의 미생물 배양[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&categoryId=AWksRe4KARQDFAVE&categoryType=CODE)][[Fail](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/001.c)]
 - 최약수[[문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttVkiq5jEDFASy&categoryId=AWttVkiq5jEDFASy&categoryType=CODE)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/011.c)]
 
 <a href="#top">[Back to top]</a>
