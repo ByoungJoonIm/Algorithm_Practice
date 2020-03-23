@@ -1,6 +1,4 @@
 # Algorithm_Practice
-## 참고
-- 현재 코드를 유형별로 정리중
 
 ## Baekjoon Online Judge
 ### Basic Input and Output
