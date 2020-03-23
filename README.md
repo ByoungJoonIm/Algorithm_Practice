@@ -1,5 +1,3 @@
-# Algorithm_Practice
-
 ## Baekjoon Online Judge
 ### Basic Input and Output
 - A + B
