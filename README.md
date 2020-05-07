@@ -196,6 +196,8 @@
 - 상범 빌딩[[문제](https://www.acmicpc.net/problem/6593)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/SangBeomBuilding.java)]
 - 최단 경로
   - 미로 탐색[[문제](https://www.acmicpc.net/problem/2178)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2178.java)]
+  - 벽 부수고 이동하기[[문제](https://www.acmicpc.net/problem/2206)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q2178.java)]
+    - visited 3차원 배열 사용
 - 나이트의 이동[[문제](https://www.acmicpc.net/problem/7562)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q7562.java)] 
 
 ### DFS(Depth First Search)
