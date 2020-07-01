@@ -10,23 +10,23 @@ import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Q15649 {
-	private static int N;
-	private static int M;
-	private static BufferedWriter bw;
+	private static int N, M;
+	private static StringBuilder sb;
+	private static int selected[];
 	
-	private static void print(int depth, int[] arr, boolean visited[]) throws IOException{
+	private static void dfs(int depth, boolean visited[]){
 		if(depth == M){
-			for (int i = 0; i < M; i++)
-				bw.write(arr[i] + " ");
-			bw.write("\n");
+			for (int i = 0; i < M - 1; i++)
+				sb.append(selected[i]).append(' ');
+			sb.append(selected[M - 1]).append('\n');
 			return;
 		}
 		
-		for (int i = 1; i <= N; i++) {
+		for (int i = 0; i < N; i++) {
 			if(!visited[i]){
-				arr[depth] = i;
+				selected[depth] = i + 1;
 				visited[i] = true;
-				print(depth + 1, arr, visited);
+				dfs(depth + 1, visited);
 				visited[i] = false;	
 			}
 		}
@@ -34,12 +34,18 @@ public class Q15649 {
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		sb = new StringBuilder();
+		
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
 		
-		print(0, new int[N], new boolean[N + 1]);
+		selected = new int[M];
+		
+		dfs(0, new boolean[N]);
+		
+		bw.write(sb.toString());
 		
 		br.close();
 		bw.close();
