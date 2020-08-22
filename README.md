@@ -222,7 +222,7 @@
   - 타임머신[[문제](https://www.acmicpc.net/problem/11657)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/BellmanFord.java)]
 
 ### 위상 정렬(Topological Sort)
-- 꾸준함 [[문제](https://www.acmicpc.net/problem/1766)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1766.java)]
+- 문제집 [[문제](https://www.acmicpc.net/problem/1766)][[코드](https://github.com/ByoungJoonIm/Algorithm_Practice/blob/master/forRank/Q1766.java)]
  
 ### 이진 탐색(Binary Search)
 - 랜선 자르기[[문제](https://www.acmicpc.net/problem/1654)][[코드](https://github.com/BJ-Lim/Algorithm_Practice/blob/master/code/CuttingLanWire.java)]
